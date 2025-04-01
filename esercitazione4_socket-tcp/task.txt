@@ -1,0 +1,4 @@
+1. Provare ad eseguire il server su un dispositivo ed il client sull’altro avendo cura di aggiornare l’indirizzo
+del server.
+2. Aprire l’applicativo Wireshark e vedere se si riescono ad intercettare le richieste.
+3. Eseguire questo codice sul proprio computer utilizzando due finestre del terminale diverse.

@@ -3,3 +3,4 @@
 3. Eseguire questo codice sul proprio computer utilizzando due finestre del terminale diverse.
 4. Modificare il server in modo che riceva una stringa dal client e restituisca un valore booleano che indica se la stringa è un palindromo. 
 Il controllo per verificare che una stringa sia palindroma o meno è il seguente s == s[::-1]
+5. Modificare il server in modo che riceva un'operazione matematica (addizione, sottrazione, moltiplicazione o divisione) e due numeri dal client e restituisca il risultato dell'operazione.
